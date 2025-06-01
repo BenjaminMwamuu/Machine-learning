@@ -31,7 +31,7 @@ with col8:
 with col9:
     st.write('')
 
-gen_list = ["Female", "Male", "Transgender"]
+gen_list = ["Female", "Male",]
 edu_list = ["Bachelor's", "Master's", "PhD"]
 job_list = ["Director of Marketing", "Director of Operations", "Senior Data Scientist", "Senior Financial Analyst", "Senior Software Engineer", "Junior developer", "Web developer", "Mobile developer"]
 job_idx = [0, 1, 10, 11, 20]
